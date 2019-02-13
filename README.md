@@ -1,4 +1,4 @@
-# AP_DERIVED
+# R codes used in the "Attribute Profiles on Derived Features for Urban Land Cover Classification"
 This repository contains the R codes of the Classification of Attribute profiles from the derived features for Urban cover classification.
 
 

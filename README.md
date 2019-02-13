@@ -1,5 +1,5 @@
 # R codes used in the "Attribute Profiles on Derived Features for Urban Land Cover Classification"
-This repository contains the R codes of the Classification of Attribute profiles from the derived features for Urban cover classification.
+This repository contains the R codes of the Classification of Attribute profiles from the derived features for Urban cover classification.  The attribute profiles are pre-computed using Matlab, if you need the code please write me: bharath-bhushan.damodaran@irisa.fr
 
 
 BB Damodaran et.al, "[Attribute Profiles on Derived Features for
